@@ -2,7 +2,7 @@
 
 /*
  * main - Entry point 
- * void - the main function takes no arguments
+ * 
  * Return: Always 0 (success)
  */
 int main(void)
