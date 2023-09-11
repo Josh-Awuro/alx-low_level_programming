@@ -5,7 +5,7 @@
 /*
  * main - produces random number and checks the last digit
  * @n: is a variable that stores the random number generated
- *
+ * Description: using if, else if and else in program
  * Return: always 0
  */
 int main(void)
