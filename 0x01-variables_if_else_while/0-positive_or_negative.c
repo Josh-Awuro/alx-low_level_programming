@@ -3,15 +3,15 @@
 #include <stdio.h>
 
 /**
- * main - Entry point with no arguments to take
- *return: always 0
+ * main - entry point
+ * return: always 0
  */
 int main(void)
 {
-        int n;
+	int n;
 
-        srand(time(0));
-        n = rand() - RAND_MAX / 2;
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 		printf("%d is positive\n", n);
 	else if (n == 0)
