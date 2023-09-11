@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 /**
- * Description: Using if, else if and else
  * main - produces random number and checks the last digit
  * @n: is a variable that stores the random number generated
  * Return: always 0
