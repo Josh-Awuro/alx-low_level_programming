@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /*
- * main: entry point
+ * main: entry point. The main function takes no arguments.
  *
  * return - always 0
  */
