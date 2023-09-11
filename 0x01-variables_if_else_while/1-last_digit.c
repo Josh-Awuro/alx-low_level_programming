@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /*
- * main: entry point. The main function takes no arguments.
+ * main - produces random number and checks the last digit
  *
- * return - always 0
+ * return: always 0
  */
 int main(void)
 {
