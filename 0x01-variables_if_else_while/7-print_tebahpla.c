@@ -4,16 +4,16 @@
  * main- Entry point
  * @void: Null value
  *
- * Description: Print alphabet lowercase
+ * Description: Print alphabet in reverse
  * Return: Zero value
  */
 
 int main(void)
 {
-	char c;
+	char n;
 
-	for (c = 'a'; c <= 'z'; c++)
-		putchar(c);
+	for (n = 'z'; n >= 'a'; n--)
+		putchar(n);
 	putchar('\n');
 	return (0);
 }
