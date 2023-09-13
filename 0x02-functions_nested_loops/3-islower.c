@@ -4,9 +4,9 @@
 
 /**
  * _islower - checks for lowercase characters
- * @c: 
+ * @c: is an interger vaue
  *
- * Returns 1 if c is a lowercase and 0 if otherwise
+ * * Return: 1 if c is a lowercase and 0 if otherwise
  */
 int _islower(int c)
 {
