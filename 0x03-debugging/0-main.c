@@ -2,9 +2,9 @@
 
 /**
  * main - tests the file
- *
  * Return: 0.
  */
+
 int main(void)
 {
         int i;
