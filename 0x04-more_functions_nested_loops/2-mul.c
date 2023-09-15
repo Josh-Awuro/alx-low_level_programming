@@ -2,7 +2,8 @@
 
 /**
  * mul - multiplies two integers
- * Returns integers
+ *
+ * Return: void
  */
 int mul(int a, int b)
 {
